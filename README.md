@@ -12,4 +12,5 @@ Changelog:
 - added 10mm USB socket (Mouser part = 806-KUSBVLPX-AS1N-W)
 
 
+https://github.com/westlicht
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
